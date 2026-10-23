@@ -24171,6 +24171,13 @@
     "repo": "avlihachev/obsidian-workout-ai-tracker"
   },
   {
+    "id": "homepulse",
+    "name": "HomePulse",
+    "author": "Yuki",
+    "description": "A component-based personal homepage dashboard with grid layout, drag editing, and workflow widgets.",
+    "repo": "jukkau/HomePulse"
+  },
+  {
     "id": "vaultkeeper-ai",
     "name": "Vaultkeeper AI",
     "author": "andy-stack",
